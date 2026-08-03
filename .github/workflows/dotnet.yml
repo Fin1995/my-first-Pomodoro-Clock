@@ -23,6 +23,11 @@ jobs:
     - name: Restore dependencies
       run: dotnet restore
       working-directory: ./Black-Cat-Pomodoro/Cat1
+    - name: Clean and restore
+      run: |
+        dotnet clean
+        dotnet restore --force
+      working-directory: ./Black-Cat-Pomodoro/Cat1
     - name: Build
       run: dotnet build
       working-directory: ./Black-Cat-Pomodoro/Cat1
