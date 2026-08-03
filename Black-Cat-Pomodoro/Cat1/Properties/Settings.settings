@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)">
+  <Profiles><Profile Name="(Default)" /></Profiles>
+  <Settings>
+    <Setting Name="Theme" Type="System.String" Scope="User"><Value Profile="(Default)">Default</Value></Setting>
+    <Setting Name="AppFont" Type="System.String" Scope="User"><Value Profile="(Default)">Microsoft YaHei UI, 9pt</Value></Setting>
+    <Setting Name="SoundMode" Type="System.Int32" Scope="User"><Value Profile="(Default)">0</Value></Setting>
+    <Setting Name="SoundFilePath" Type="System.String" Scope="User"><Value Profile="(Default)"></Value></Setting>
+    <Setting Name="SoundDevice" Type="System.Int32" Scope="User"><Value Profile="(Default)">-1</Value></Setting>
+    <Setting Name="NotifyToast" Type="System.Boolean" Scope="User"><Value Profile="(Default)">False</Value></Setting>
+  </Settings>
+</SettingsFile>
