@@ -22,10 +22,10 @@ jobs:
         dotnet-version: 8.0.x
     - name: Restore dependencies
       run: dotnet restore
-      working-directory: ./Black-Cat-Pomodoro
+      working-directory: ./Black-Cat-Pomodoro/Cat1
     - name: Build
       run: dotnet build
-      working-directory: ./Black-Cat-Pomodoro
+      working-directory: ./Black-Cat-Pomodoro/Cat1
     - name: Test
       run: dotnet test --no-build --verbosity normal
-      working-directory: ./Black-Cat-Pomodoro
+      working-directory: ./Black-Cat-Pomodoro/Cat1
