@@ -4,6 +4,8 @@
 
 基于 C# / WinForms (.NET Framework 4.7.2) 开发，运行于 Windows。
 
+爱发电主页：https://afdian.com/a/zz_io
+
 ## ✨ 功能特性
 
 - **番茄钟计时**：专注 / 休息双阶段循环，支持自定义时长与循环次数
